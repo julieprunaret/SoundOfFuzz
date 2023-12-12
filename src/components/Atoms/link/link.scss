@@ -1,0 +1,13 @@
+.link {
+  color: white;
+  text-decoration: none;
+  &:visited {
+    color: grey;
+  }
+  &:active {
+    color: red;
+  }
+  &:hover {
+    opacity: 0.9;
+  }
+}

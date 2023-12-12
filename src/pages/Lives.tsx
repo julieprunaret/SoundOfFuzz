@@ -1,6 +1,6 @@
 function Lives() {
   return (
-    <div className="App">
+    <div className="page">
       <h1>Lives</h1>
     </div>
   );

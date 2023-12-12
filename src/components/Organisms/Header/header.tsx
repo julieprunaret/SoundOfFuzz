@@ -6,9 +6,12 @@ function Header() {
   return (
     <header className="header">
       <nav>
-        <LinkCustom text="Home" destination="" />
-        <LinkCustom text="Videos" destination="videos" />
-        <LinkCustom text="Lives" destination="lives" />
+        <p>logo</p>
+        <div>
+          <LinkCustom text="Home" destination="" />
+          <LinkCustom text="Videos" destination="videos" />
+          <LinkCustom text="Lives" destination="lives" />
+        </div>
       </nav>
     </header>
   );
