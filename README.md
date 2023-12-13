@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Sound Of Fuzz ~ a website for a punk band
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
